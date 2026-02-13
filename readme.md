@@ -465,14 +465,3 @@ If you encounter issues:
 5. Try with a different singer name
 
 ---
-
-## ⚖️ Important Notes
-
-- ✅ For educational purposes only
-- ✅ Respect YouTube's Terms of Service
-- ✅ Don't distribute copyrighted content
-- ✅ Use responsibly
-
----
-
-**Good luck with your assignment! 🎉**
